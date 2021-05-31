@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "BE",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/BE.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "20.11.2020"
+    },
+    {
+        "id": 2,
+        "name": "Map of the soul: Persona",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Map%20of%20the%20soul:%20Persona.jpg",
+        "type": "Pop / R&B‎ / ‎rap rock‎",
+        "date": "12.4.2019"
+    },
+    {
+        "id": 3,
+        "name": "Butter",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/butter.jpg",
+        "type": "Dance-pop",
+        "date": "21.5.2021"
+    },
+    {
+        "id": 4,
+        "name": "Blood Sweat & Tears",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Blood%20Sweat%20%26Tears.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "10.10.2016"
+    },
+    {
+        "id": 5,
+        "name": "Dark & Wild",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Dark%20%26%20Wild.jpg",
+        "type": "Hip hop / ‎R&B‎ / ‎dance-pop‎",
+        "date": "19.8.2014"
+    },
+    {
+        "id": 6,
+        "name": "Face Yourself",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/bts-face-yourself.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "4.4.2018"
+    }
+]
