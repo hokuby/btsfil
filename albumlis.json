@@ -1,44 +1,149 @@
 [
     {
         "id": 1,
+        "name": "O!RUL8,2?",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/O!RUL8%2C2%3F.jpg",
+        "type": "Pop / Dance / electronic",
+        "date": "11.11.2013"
+    },
+    {
+        "id": 2,
+        "name": "Skool Luv Affair",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Skool Luv Affair.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "12.2.2014"
+    },
+    {
+        "id": 3,
+        "name": "Dark & Wild",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Dark & Wild.jpg",
+        "type": "Pop / Electronic",
+        "date": "19.8..2014"
+    },
+    {
+        "id": 4,
+        "name": "Wake Up",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Wake Up.jpg",
+        "type": "Dance-pop",
+        "date": "24.12.2014"
+    },
+    {
+        "id": 5,
+        "name": "The most Beautiful Moment in Life : Part 1",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/The most Beautiful Moment in Life : Part 1.jpg",
+        "type": "Dance / Electronic",
+        "date": "29.4.2015"
+    },
+    {
+        "id": 6,
+        "name": "The Most Beautiful Moment in Life : Part 2",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/The Most Beautiful Moment in Life : Part 2.jpg",
+        "type": "Dance / Electronic",
+        "date": "30.11.15"
+    },
+    {
+        "id": 7,
+        "name": "The Most Beautiful Moment in Life : Young Forever",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/The Most Beautiful Moment in Life : Young Forever.jpg",
+        "type": "Dance / Electronic",
+        "date": "2.5.2016"
+    },
+    {
+        "id": 8,
+        "name": "Youth",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Youth.jpg",
+        "type": "Hip-Hop / Dance-pop",
+        "date": "7.9.2016"
+    },
+    {
+        "id": 9,
+        "name": "Wings",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Wings.jpg",
+        "type": "Dance / Electronic",
+        "date": "10.10.2016"
+    },
+    {
+        "id": 10,
+        "name": "You Never Walk Alone",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/You Never Walk Alone.jpg",
+        "type": "Dance / Electronic",
+        "date": "13.2.2017"
+    },
+    {
+        "id": 11,
+        "name": "Blood Sweat & Tears",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Blood Sweat &Tears.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "10.10.2017"
+    },
+    {
+        "id": 12,
+        "name": "Love Yourself : Her",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Love Yourself : Her.jpg",
+        "type": "Dance / Electronic",
+        "date": "18.9.2017"
+    },
+    {
+        "id": 13,
+        "name": "Face Yourself",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Face Yourself.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "4.4.2018"
+    },
+    {
+        "id": 14,
+        "name": "Love Yourself : Tear",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Love Yourself : Tear.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "18.5.2018"
+    },
+    {
+        "id": 15,
+        "name": "Love Yourself : Answer",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Love Yourself : Answer.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "24.8.2018"
+    },
+    {
+        "id": 16,
+        "name": "Map of the soul: Persona",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Map of the soul: Persona.jpg",
+        "type": "Pop / R&B‎ / ‎rap rock‎",
+        "date": "12.4.2019"
+    },
+    {
+        "id": 17,
+        "name": "Map of the Soul : 7",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Map%20of%20the%20Soul:7.jpg",
+        "type": "Hip-Hop / Rap",
+        "date": "21.2.2020"
+    },
+    {
+        "id": 18,
+        "name": "Map of the Soul:7 ~ The Journey",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/Map of the Soul:7 ~ The Journey.jpg",
+        "type": "Hip-Hop / Rap / Dance-pop",
+        "date": "14.7.2020"
+    },
+    {
+        "id": 19,
         "name": "BE",
         "imglink": "https://github.com/hokuby/btson/raw/main/img/BE.jpg",
         "type": "Hip-Hop / Rap",
         "date": "20.11.2020"
     },
     {
-        "id": 2,
-        "name": "Map of the soul: Persona",
-        "imglink": "https://github.com/hokuby/btson/raw/main/img/Map%20of%20the%20soul:%20Persona.jpg",
-        "type": "Pop / R&B‎ / ‎rap rock‎",
-        "date": "12.4.2019"
+        "id": 20,
+        "name": "Film Out",
+        "imglink": "https://github.com/hokuby/btson/raw/main/img/film out.jpg",
+        "type": "J-Pop",
+        "date": "2.4.2021"
     },
     {
-        "id": 3,
+        "id": 21,
         "name": "Butter",
         "imglink": "https://github.com/hokuby/btson/raw/main/img/butter.jpg",
         "type": "Dance-pop",
         "date": "21.5.2021"
-    },
-    {
-        "id": 4,
-        "name": "Blood Sweat & Tears",
-        "imglink": "https://github.com/hokuby/btson/raw/main/img/Blood%20Sweat%20%26Tears.jpg",
-        "type": "Hip-Hop / Rap",
-        "date": "10.10.2016"
-    },
-    {
-        "id": 5,
-        "name": "Dark & Wild",
-        "imglink": "https://github.com/hokuby/btson/raw/main/img/Dark%20%26%20Wild.jpg",
-        "type": "Hip hop / ‎R&B‎ / ‎dance-pop‎",
-        "date": "19.8.2014"
-    },
-    {
-        "id": 6,
-        "name": "Face Yourself",
-        "imglink": "https://github.com/hokuby/btson/raw/main/img/bts-face-yourself.jpg",
-        "type": "Hip-Hop / Rap",
-        "date": "4.4.2018"
     }
 ]
