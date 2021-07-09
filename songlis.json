@@ -1384,5 +1384,11 @@
         "name": "Butter (Hotter Remix)",
         "link": "https://github.com/hokuby/btson/raw/main/son/Butter/BTS%20Butter%20%28Hotter%20Remix%29%20Lyrics%20%28Color%20Coded%20Lyrics%29.mp3",
         "album_id": 21
+    },
+    {
+        "id": 232,
+        "name": "Permission to Dance",
+        "link": "https://github.com/hokuby/btson/raw/main/son/Butter/AudioCutter_BTS%20(%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8)%20_Permission%20to%20Dance_%20Official%20MV(MP3_160K).mp3",
+        "album_id": 21
     }
 ]
